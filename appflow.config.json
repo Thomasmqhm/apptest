@@ -10,5 +10,7 @@
     "build:after": [],
     "serve:before": [],
     "serve:after": []
-  }
+  },
+  "features": {},
+  "plugins": {}
 }
