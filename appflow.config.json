@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "appId": "com.yourcompany.apptest",
+      "appId": "8426555a",
       "root": ".",
-      "type": "ionic-angular",
+      "type": "custom",
       "webDir": "www",
       "android": {
         "buildCommand": "npm run build"
